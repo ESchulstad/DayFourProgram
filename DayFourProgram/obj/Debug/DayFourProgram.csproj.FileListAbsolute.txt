@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\DayFourProgram\DayFourProgram\bin\Debug\DayFourProgram.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\DayFourProgram\DayFourProgram\bin\Debug\DayFourProgram.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\DayFourProgram\DayFourProgram\bin\Debug\DayFourProgram.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\DayFourProgram\DayFourProgram\obj\Debug\DayFourProgram.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\DayFourProgram\DayFourProgram\obj\Debug\DayFourProgram.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\DayFourProgram\DayFourProgram\obj\Debug\DayFourProgram.pdb
